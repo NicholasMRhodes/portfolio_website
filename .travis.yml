@@ -12,7 +12,7 @@ script:
   - npm run build
 
 after_success:
-  - firebase deploy --token $FIREBASE_TOKEN
+  - firebase deploy --project portfoliowebsite-406f5 --token $FIREBASE_TOKEN
 
 deploy:
   provider: pages
