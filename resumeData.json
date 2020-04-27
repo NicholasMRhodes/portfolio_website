@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name":"NICK RHODES",
+    "lcname": "Nicholas M. Rhodes",
+    "occupation": "Full Stack Developer",
+    "description": "Data Science Enthusiast",
+    "image":"profilepic.jpg",
+    "bio":"Learn | Analyze | Design | Create. These four words best describe my work style and how I think. I believe everything we do in life is a process (daily routine, business model, etc.). I enjoy using data to extract hidden truths, display findings in a clean-attractive way for others to understand and enjoy creating scalable automated processes to continuously improve and/or build on. This is why I naturally fell in love with coding. I am currently looking for a company to continue my journey (full-stack web development or data science) and am excited to see how my business background interlocks with the coding world!",
+    "contactmessage":"If you think I would be a good fit for your team/company or have a project for me, I would love to hear from you! You can contact me by email at Nicholas.M.Rhodes@gmail.com or by phone at (703) 472-0923.",
+    "email": "Nicholas.M.Rhodes@gmail.com",
+    "phone": "703-472-0923",
+    "address":{
+      "street":"5159 Pleasant Forest Dr.",
+      "city":"Centreville",
+      "state":"VA",
+      "zip": "20120"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/open?id=1L1RjQIKaiC-7YJVY_bOqV67z23jubXwV",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nicholas-rhodes-a8948044/",
+        "icon":"linkedin_icon.png"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/NicholasMRhodes",
+        "icon":"github_icon.png"
+      },
+      {
+        "name":"kaggle",
+        "url":"https://www.kaggle.com/nicholasmrhodes",
+        "icon":"kaggle_icon.png"
+      },
+      {
+        "name":"codepen",
+        "url":"https://codepen.io/nicholasmrhodes",
+        "icon":"codepen_icon.png"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Coding Dojo",
+        "degree":"Resident Full-Stack Developer",
+        "graduated":"Nov 2019",
+        "description":"Completed an immersive software development program with more than 1,000 hours spent learning and developing web applications using Python, MERN, and C# ASP.NET Core MVC framework."
+      },
+      {
+        "school":"George Mason University",
+        "degree":"Master of Business Administration",
+        "graduated":"May 2014",
+        "description":"Studies focused in Business and Finance, including Macroeconomics, Investment Analysis and Quantitative Analytics."
+      }
+    ]
+  },
+  "portfolio":{
+    "portfoliomessage": "Below are some of my projects and applications. You will see a mixture of websites and data science applications. The technology used is provided. ",
+    "projects": [
+      {
+        "title":"Learn Lab",
+        "description":"Learn Lab is an online learning platform with a chat feature built to allow the continuation of learning during this time of uncertainty.",
+        "image":"learn_lab.png",
+        "url":"https://learn-lab.herokuapp.com",
+        "tech1":"javascript_logo.png",
+        "tech1name":"JavaScript",
+        "tech2":"react_logo.png",
+        "tech2name":"React.js",
+        "tech3":"nodejs_logo.png",
+        "tech3name":"Node.js",
+        "tech4":"expressjs_logo.png",
+        "tech4name":"Express.js",
+        "tech5":"firebase_logo.png",
+        "tech5name":"Firebase"
+      },
+      {
+        "title":"Best Invest",
+        "description":"Best Invest is a machine learning application that helps businesses understand where they should invest their money within the organization (i.e. R&D spending, Marketing, Administration, etc.) in order to generate the greatest amount of profit.",
+        "image":"best_invest.png",
+        "url":"https://github.com/NicholasMRhodes/Best_Invest",
+        "tech1":"python_logo.png",
+        "tech1name":"Python",
+        "tech2":"pandas_logo.png",
+        "tech2name":"Pandas",
+        "tech3":"matplotlib_logo.png",
+        "tech3name":"Matplotlib",
+        "tech4":"seaborn_logo.png",
+        "tech4name":"Seaborn",
+        "tech5":"jupyter_logo.png",
+        "tech5name":"Jupyter Notebook"
+      },
+      {
+        "title":"NFL Play Predictor",
+        "description":"NFL Play Predictor is a machine learning application that predicts whether the football team on offense is going to run or pass the ball. A defensive coordinator’s best friend.",
+        "image":"nfl_play_predictor.png",
+        "url":"https://github.com/NicholasMRhodes/NFL_PBP_Predictor",
+        "tech1":"python_logo.png",
+        "tech1name":"Python",
+        "tech2":"pandas_logo.png",
+        "tech2name":"Pandas",
+        "tech3":"matplotlib_logo.png",
+        "tech3name":"Matplotlib",
+        "tech4":"seaborn_logo.png",
+        "tech4name":"Seaborn",
+        "tech5":"jupyter_logo.png",
+        "tech5name":"Jupyter Notebook"
+      }
+    ]
+  }
+}
